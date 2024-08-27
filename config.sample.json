@@ -1,0 +1,20 @@
+{
+    "token": "",
+    "channels": [
+        {
+            "_name": "from broadcast to ask questions",
+            "channelId": "1276258231139827832",
+            "forwardingTo": "✌・ask-questions"
+        },
+        {
+            "_name": "from eod dax to dax",
+            "channelId": "1276258298361811006",
+            "forwardingTo": "・dax"
+        },
+        {
+            "_name": "from outlook dax to dax",
+            "channelId": "1276258340053454950",
+            "forwardingTo": "・dax"
+        }
+    ]   
+}
