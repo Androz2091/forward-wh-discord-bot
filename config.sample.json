@@ -15,6 +15,16 @@
             "_name": "from outlook dax to dax",
             "channelId": "1276258340053454950",
             "forwardingTo": "・dax"
+        },
+        {
+            "_name": "from eod500 to us500",
+            "channelId": "1276258406658871368",
+            "forwardingTo": "・us500"
+        },
+        {
+            "_name": "from outlook500 to us500",
+            "channelId": "1276258450480824340",
+            "forwardingTo": "・us500"
         }
     ]   
 }
