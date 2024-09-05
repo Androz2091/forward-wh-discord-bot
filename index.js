@@ -1,5 +1,5 @@
 import { Client, GatewayIntentBits, TextChannel } from 'discord.js';
-import config from './config.json' assert { type: "json" };
+import config from './config.json' with { type: "json" };
 
 
 const client = new Client({
